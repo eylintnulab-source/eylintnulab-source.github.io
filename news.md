@@ -2,7 +2,11 @@
 title: News
 permalink: /news.html
 ---
-
+<style>
+  ul,ol{padding-left:0;margin-left:0;list-style-position:inside;text-align:left}
+  li{text-align:left;margin-left:0}
+  
+</style>
 # News
 
 Awards, presentations, appointments, and laboratory milestones from the EYL Computational Chemistry Research Group.
